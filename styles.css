@@ -11,7 +11,7 @@
 }
 
 .sidebar {
-  height: 180%;
+  height: 100%;
   width: 39%;
   background-color: #097962;
   color: white;
@@ -24,7 +24,7 @@
 }
 
 .content {
-  height: 180%;
+  height: 100%;
   width: 60%;
   background-color: #097962;
   color: white;
@@ -35,9 +35,9 @@
 }
 
 .container {
-  height: 235px;
+  height: 500px;
   clear: both;
-  margin-bottom: 203px;
+  margin-bottom: 10px;
 }
 
 .footer {
