@@ -16,8 +16,6 @@
   background-color: #097962;
   color: white;
   float: left;
-  margin-right: 1%;
-  margin-left: 0px;
   text-align: center;
   font-size: 25px;
   font-family: Arial;
@@ -60,4 +58,14 @@
 
 .margin {
   margin: 0;
+}
+
+.text-sidebar-position {
+  margin-top: 50%;
+  transform: translateY(-50%);
+}
+.text-content-position {
+  margin-top: 50%;
+  transform: translateY(-50%);
+  margin-top: 280px;
 }
